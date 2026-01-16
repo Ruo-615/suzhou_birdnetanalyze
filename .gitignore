@@ -13,7 +13,7 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data & outputs (VERY IMPORTANT)
+# Data & outputs 
 data/raw-audio/
 data/filtered_audio/
 data/result/
