@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data & outputs (VERY IMPORTANT)
+data/raw-audio/
+data/filtered_audio/
+data/result/
+data/result_zh/
+
+# large files
+*.wav
+*.mp3
+
+# cache / models
+.cache/
